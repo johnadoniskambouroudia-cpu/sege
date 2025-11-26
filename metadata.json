@@ -1,0 +1,5 @@
+{
+  "name": "TeleScout AI",
+  "description": "Yapay zeka destekli Telegram grubu arama motoru. Anahtar kelimelerle en alakalı, aktif ve halka açık Telegram topluluklarını bulun.",
+  "requestFramePermissions": []
+}
